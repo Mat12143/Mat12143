@@ -10,4 +10,4 @@
 
 👯 I’m collaborating with [@Tesohh](https://github.com/Tesohh/)
 
-👨‍💼 Owner of [@pyros](https://pyros.dev)
+👨‍💼 Owner of [Pyros](https://pyros.dev)
