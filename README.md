@@ -1,6 +1,6 @@
 ### Mat12143 - Young Developer
 
-🔭 I’m currently working on [VCity](https://pyros.dev/vcity) a Discord Bot
+🔭 I’m currently learning [Godot Engine](https://godotengine.org/)
 
 👩‍💻 Programming Languages I know:
 -  JavaScript
