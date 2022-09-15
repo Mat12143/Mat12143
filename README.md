@@ -1,12 +1,6 @@
-### Mat12143 - Young Developer
+### Mat12143
 
-🔭 I’m currently recoding VCity Bot
-
-👩‍💻 Programming Languages I know:
--  JavaScript
-   * NodeJS
-- Python
-- Discord API
+A sort of Developer & Gamer, that knows Python, JavaScript, TypeScript
 
 👯 I’m collaborating with [@Tesohh](https://github.com/Tesohh/)
 
